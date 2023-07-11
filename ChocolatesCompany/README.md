@@ -1,14 +1,25 @@
 ### Practice Project
 
 **1. SELECT
+
 2. WHERE
+
 3. ORDER BY
+
 4. BETWEEN AND OR
+
 5. YEAR
+
 6. WEEKDAY
+
 7. IN
+
 8. LIKE
+
 9. CASE
+
 10. JOIN
+
 11. GROUP BY
+
 12. LIMIT**
