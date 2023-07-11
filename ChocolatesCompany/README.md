@@ -1,6 +1,6 @@
 ### Practice Project
-**
-1. SELECT
+
+**1. SELECT
 2. WHERE
 3. ORDER BY
 4. BETWEEN AND OR
@@ -11,5 +11,4 @@
 9. CASE
 10. JOIN
 11. GROUP BY
-12. LIMIT
-**
+12. LIMIT**
